@@ -1,4 +1,4 @@
-# NeerTrace_SIH
+# NeerTrace
 NeerTrace: Real-time water quality monitoring and heavy metal pollution analysis using Streamlit.
 
 # 🌊 NeerTrace
