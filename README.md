@@ -1,6 +1,8 @@
 # NeerTrace
 NeerTrace: Real-time water quality monitoring and heavy metal pollution analysis using Streamlit.
 
+[Demo Video](https://drive.google.com/file/d/1LHeblQ0u6VJcLEdsrknY3GENvJzJGLeO/view)
+
 # 🌊 NeerTrace
 
  Detect. Visualize. Protect. 🛡️
